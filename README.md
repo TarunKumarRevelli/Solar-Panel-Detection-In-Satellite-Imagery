@@ -1,4 +1,4 @@
-# Solar Panel Detection using YOLO
+# Solar Panel Detection using YOLOv8n
 
 ## Overview
 This project focuses on detecting solar panels from aerial imagery using deep learning. The dataset consists of high-resolution images annotated with solar panel locations in the MS-COCO format. The objective is to train an object detection model using Ultralytics YOLO and evaluate its performance using standard metrics like IoU, mAP, and precision-recall curves.
